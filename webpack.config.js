@@ -13,12 +13,12 @@ const packageConfig = JSON.parse(fs.readFileSync(path.join(__dirname, 'package.j
 const externals = Object.keys(packageConfig.dependencies);
 externals.push('commonjs');
 externals.push('vscode');
-
 module.exports = {
   mode: 'production',
   entry: __dirname + '/src/main.js',
   output: {
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(Lashawn Spencer
+      _dirname, 'dist'),
     filename: 'extension.js',
     libraryTarget: 'commonjs2'
   },
