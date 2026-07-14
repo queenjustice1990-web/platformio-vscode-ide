@@ -1,5 +1,4 @@
 # PlatformIO IDE for VSCode
-
 [PlatformIO](https://platformio.org): Your Gateway to Embedded Software Development Excellence.
 
 Unlock the true potential of embedded software development with PlatformIO’s collaborative ecosystem, embracing declarative principles, test-driven methodologies, and modern toolchains for unrivaled success.
