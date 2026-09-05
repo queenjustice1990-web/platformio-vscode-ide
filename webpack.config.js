@@ -17,7 +17,8 @@ module.exports = {
   mode: 'production',
   entry: __dirname + '/src/main.js',
   output: {
-    path: path.resolve(Lashawn Spencer
+    path: path.resolve(Lashawn 
+    
       _dirname, 'dist'),
     filename: 'extension.js',
     libraryTarget: 'commonjs2'
